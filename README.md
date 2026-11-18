@@ -157,7 +157,9 @@ whose prerequisites you cannot meet.
    agent's work. One trap to avoid: never submit the kit's starter unchanged.
    Its lines are the kit's, never your agent's, so the transcript gate fails —
    write the guide yourself, then revise it at least once in the same session,
-   so the file carries your agent's own words and edits.
+   so the file carries your agent's own words and edits. Commit the revision
+   too: the checks want to see your agent write and edit the file, not paste
+   it once.
 5. **Add what the bounty asks for.** Its requirements give a README template with
    make.fun's badges for your repository; fill it in and commit it with the rest.
 
