@@ -310,6 +310,16 @@ checks match those against the code, and redacting them can disqualify the entry
 </details>
 
 <details>
+<summary><strong>Can I submit more than once?</strong></summary>
+
+Yes — most bounties let you submit up to 5 times a day and 10 times in total,
+and your last submission before the deadline is the one that counts. So only
+resubmit when the new version is genuinely better, not just different. A
+rejected entry still counts toward the day's limit, so run the local checks
+first and fix what they name before you send another one.
+</details>
+
+<details>
 <summary><strong>What if my entry is rejected?</strong></summary>
 
 Rejections list every failed check with its fix — read them, fix what they name,
